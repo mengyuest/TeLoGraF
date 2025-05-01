@@ -18,7 +18,7 @@
 <p align="center"><em>TeLoGraF can handle general STL specifications.</em></p>
 
 
-<p align="center">
+<!-- <p align="center">
   <div style="display: inline-block; text-align: center; width: 18%; margin: 0 0.5%;">
     <img src="figures/env1_linear.png" style="width: 100%;" />
     <div style="font-size: small;">Linear</div>
@@ -39,7 +39,11 @@
     <img src="figures/env5_panda.png" style="width: 100%;" />
     <div style="font-size: small;">Panda</div>
   </div>
-</p>
+</p> -->
+| ![](figures/env1_linear.png) | ![](figures/env2_nonlinear.png) | ![](figures/env3_pointmaze.png) | ![](figures/env4_antmaze.png) | ![](figures/env5_panda.png) |
+|:----------------------------:|:-------------------------------:|:-------------------------------:|:-----------------------------:|:---------------------------:|
+| Linear                      | Nonlinear                       | PointMaze                       | AntMaze                       | Panda                       |
+
 
 <p align="center"><em>TeLoGraF solves for a wide range of task environments.</em></p>
 
