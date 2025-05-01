@@ -53,9 +53,11 @@ Code and dataset are coming soon.
 Code and dataset are coming soon.
 
 ## Reference
+```bibtex
 @inproceedings{meng2025audere,
   title={AuDeRe: Automated Strategy Decision and Realization in Robot Planning and Control via LLMs},
   author={Meng, Yue and Chen, Fei and Chen, Yongchao and Fan, Chuchu},
   journal={arXiv preprint},
   year={2025},
 }
+```
