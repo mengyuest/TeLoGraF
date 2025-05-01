@@ -5,7 +5,7 @@
 
 [<ins>Reliable Autonomous Systems Lab @ MIT (REALM)</ins>](https://aeroastro.mit.edu/realm/)
 
-[<ins>Yue Meng*</ins>](https://mengyuest.github.io/), [<ins>Chuchu Fan</ins>](https://chuchu.mit.edu/)
+[<ins>Yue Meng</ins>](https://mengyuest.github.io/), [<ins>Chuchu Fan</ins>](https://chuchu.mit.edu/)
 
 
 > A graph-based flow-matching framework that learns to solve general Signal Temporal Logic (STL) tasks across complex systems from a large dataset of specifications and demonstrations.
